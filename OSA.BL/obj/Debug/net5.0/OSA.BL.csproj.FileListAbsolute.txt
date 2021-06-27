@@ -1,0 +1,15 @@
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\bin\Debug\net5.0\OSA.BL.deps.json
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\bin\Debug\net5.0\OSA.BL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\bin\Debug\net5.0\ref\OSA.BL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\bin\Debug\net5.0\OSA.BL.pdb
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\bin\Debug\net5.0\OSA.DL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\bin\Debug\net5.0\OSA.DL.pdb
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.csproj.AssemblyReference.cache
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.AssemblyInfoInputs.cache
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.AssemblyInfo.cs
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.csproj.CoreCompileInputs.cache
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.csproj.CopyComplete
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\ref\OSA.BL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.BL\obj\Debug\net5.0\OSA.BL.pdb

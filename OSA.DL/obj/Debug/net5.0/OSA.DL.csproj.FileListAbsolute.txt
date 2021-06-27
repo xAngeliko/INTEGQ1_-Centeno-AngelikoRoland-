@@ -1,0 +1,12 @@
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\bin\Debug\net5.0\OSA.DL.deps.json
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\bin\Debug\net5.0\OSA.DL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\bin\Debug\net5.0\ref\OSA.DL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\bin\Debug\net5.0\OSA.DL.pdb
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.csproj.AssemblyReference.cache
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.AssemblyInfoInputs.cache
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.AssemblyInfo.cs
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.csproj.CoreCompileInputs.cache
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\ref\OSA.DL.dll
+C:\Users\angeliko\source\repos\onlineShoppingApplication.UI\OSA.DL\obj\Debug\net5.0\OSA.DL.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "onlineShoppingApplication.UI/1.0.0": {
+        "dependencies": {
+          "OSA.BL": "1.0.0"
+        },
+        "runtime": {
+          "onlineShoppingApplication.UI.dll": {}
+        }
+      },
+      "OSA.BL/1.0.0": {
+        "dependencies": {
+          "OSA.DL": "1.0.0"
+        },
+        "runtime": {
+          "OSA.BL.dll": {}
+        }
+      },
+      "OSA.DL/1.0.0": {
+        "runtime": {
+          "OSA.DL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "onlineShoppingApplication.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OSA.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OSA.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
