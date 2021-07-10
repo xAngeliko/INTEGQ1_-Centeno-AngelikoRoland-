@@ -13,14 +13,14 @@ namespace OSA.DL
         private string framesize;
         private DateTime date;
 
-        public Product(string shirtBrand, string price, string size, DateTime date)
+        public Product(string framebrand, string price, string size, DateTime date)
         {
-            this.frameBrand = shirtBrand;
+            this.frameBrand = framebrand;
             this.price = price;
             this.framesize = size;
             this.date = date;
         }
-        public string ShirtBrand
+        public string FrameBrand
         {
             get { return frameBrand; }
             set { frameBrand = value; }
